@@ -1,0 +1,15 @@
+{
+  "name": "SocialChat",
+  "version": "0.0.0",
+  "description": "SocialChat",
+  "main": "app.js",
+  "author": {
+    "name": "VAX",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
